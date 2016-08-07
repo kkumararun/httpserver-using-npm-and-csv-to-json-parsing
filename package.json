@@ -1,0 +1,11 @@
+{
+  "name": "jsonparsing_uploadusingnpm",
+  "version": "1.0.0",
+  "description": "testing nodemon",
+  "main": "myhttpServer.js",
+  "scripts": {
+    "test": "nodemon myhttpServer.js"
+  },
+  "author": "Arun",
+  "license": "ISC"
+}
